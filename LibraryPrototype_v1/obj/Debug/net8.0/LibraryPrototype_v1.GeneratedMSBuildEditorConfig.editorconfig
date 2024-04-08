@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryPrototype_v1
-build_property.ProjectDir = C:\Users\Preeya\source\repos\LibraryPrototype_v1\LibraryPrototype_v1\
+build_property.ProjectDir = /Users/ps2356/Desktop/LibraryPrototype_v1/LibraryPrototype_v1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
