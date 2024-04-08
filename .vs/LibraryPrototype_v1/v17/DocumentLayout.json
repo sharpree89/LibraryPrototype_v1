@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Preeya\\source\\repos\\LibraryPrototype_v1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A2D5E44-238D-4AC1-9570-3DF73B9AB42F}|LibraryPrototype_v1\\LibraryPrototype_v1.csproj|c:\\users\\preeya\\source\\repos\\libraryprototype_v1\\libraryprototype_v1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6A2D5E44-238D-4AC1-9570-3DF73B9AB42F}|LibraryPrototype_v1\\LibraryPrototype_v1.csproj|solutionrelative:libraryprototype_v1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A2D5E44-238D-4AC1-9570-3DF73B9AB42F}|LibraryPrototype_v1\\LibraryPrototype_v1.csproj|c:\\users\\preeya\\source\\repos\\libraryprototype_v1\\libraryprototype_v1\\scenes\\shopscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A2D5E44-238D-4AC1-9570-3DF73B9AB42F}|LibraryPrototype_v1\\LibraryPrototype_v1.csproj|solutionrelative:libraryprototype_v1\\scenes\\shopscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 305,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Preeya\\source\\repos\\LibraryPrototype_v1\\LibraryPrototype_v1\\.gitignore",
+              "RelativeDocumentMoniker": "LibraryPrototype_v1\\.gitignore",
+              "ToolTip": "C:\\Users\\Preeya\\source\\repos\\LibraryPrototype_v1\\LibraryPrototype_v1\\.gitignore",
+              "RelativeToolTip": "LibraryPrototype_v1\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-08T17:16:52.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TitleScene.cs",
               "DocumentMoniker": "C:\\Users\\Preeya\\source\\repos\\LibraryPrototype_v1\\LibraryPrototype_v1\\Scenes\\TitleScene.cs",
               "RelativeDocumentMoniker": "LibraryPrototype_v1\\Scenes\\TitleScene.cs",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateCharacterScene.cs",
               "DocumentMoniker": "C:\\Users\\Preeya\\source\\repos\\LibraryPrototype_v1\\LibraryPrototype_v1\\Scenes\\CreateCharacterScene.cs",
               "RelativeDocumentMoniker": "LibraryPrototype_v1\\Scenes\\CreateCharacterScene.cs",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\Preeya\\source\\repos\\LibraryPrototype_v1\\LibraryPrototype_v1\\Menus\\Menu.cs",
               "RelativeDocumentMoniker": "LibraryPrototype_v1\\Menus\\Menu.cs",
@@ -78,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ShopScene.cs",
               "DocumentMoniker": "C:\\Users\\Preeya\\source\\repos\\LibraryPrototype_v1\\LibraryPrototype_v1\\Scenes\\ShopScene.cs",
               "RelativeDocumentMoniker": "LibraryPrototype_v1\\Scenes\\ShopScene.cs",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ConsoleUtils.cs",
               "DocumentMoniker": "C:\\Users\\Preeya\\source\\repos\\LibraryPrototype_v1\\LibraryPrototype_v1\\ConsoleUtils.cs",
               "RelativeDocumentMoniker": "LibraryPrototype_v1\\ConsoleUtils.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EndDayScene.cs",
               "DocumentMoniker": "C:\\Users\\Preeya\\source\\repos\\LibraryPrototype_v1\\LibraryPrototype_v1\\Scenes\\EndDayScene.cs",
               "RelativeDocumentMoniker": "LibraryPrototype_v1\\Scenes\\EndDayScene.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Preeya\\source\\repos\\LibraryPrototype_v1\\LibraryPrototype_v1\\Game.cs",
               "RelativeDocumentMoniker": "LibraryPrototype_v1\\Game.cs",
